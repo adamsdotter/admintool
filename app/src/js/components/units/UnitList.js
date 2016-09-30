@@ -1,5 +1,5 @@
 import React from 'react';
-import UnitListItem from '../components/UnitListItem';
+import UnitListItem from './UnitListItem';
 
 export default class UnitList extends React.Component {
   constructor(props) {

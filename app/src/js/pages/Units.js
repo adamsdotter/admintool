@@ -1,6 +1,6 @@
 import React from 'react';
 
-import UnitList from '../components/UnitList';
+import UnitList from '../components/units/UnitList';
 import * as UnitsActions from '../actions/UnitsActions';
 import AdminStore from '../stores/AdminStore';
 
