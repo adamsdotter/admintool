@@ -15,6 +15,33 @@
    -ms-text-size-adjust:100%;
    -webkit-text-size-adjust:100%
 }
+
+.container-wrapper {
+  margin-top: 69px;
+}
+
+table thead {
+  width: 250px;
+  background: #b7e1e7;
+}
+
+table {
+  width: 75%;
+  border-left: 1px solid #eaeaea;
+}
+
+table th {
+  width: 250px;
+  padding: 10px;
+}
+
+table td {
+  padding: 10px;
+  border-bottom: 1px solid #eaeaea;
+  border-right: 1px solid #eaeaea;
+}
+
+
 body{
   margin:0
   }
