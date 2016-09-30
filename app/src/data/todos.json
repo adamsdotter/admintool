@@ -1,0 +1,18 @@
+[
+  {
+    "text": "Learn React",
+    "complete": true
+  },
+  {
+    "text": "Water plants",
+    "complete": false
+  },
+  {
+    "text": "Cook pasta",
+    "complete": true
+  },
+  {
+    "text": "Sleep early",
+    "complete": false
+  }
+]
