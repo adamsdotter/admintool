@@ -34,7 +34,10 @@ export default class Units extends React.Component {
 
     return (
       <div>
-        <h1>Units</h1>
+        <p>
+          <a href="#">Create new unit</a>&nbsp; &nbsp; &nbsp; &nbsp;<a href="#">Create new unit from a copy of an exsisting unit</a>
+        </p>
+        <h3>Units</h3>
         <UnitList units={units} />
       </div>
     );
